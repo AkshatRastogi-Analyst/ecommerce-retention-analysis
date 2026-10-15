@@ -1,0 +1,41 @@
+product_id,product_name,category,price
+1,Fashion Item 1,Fashion,640
+2,Fashion Item 2,Fashion,1050
+3,Fashion Item 3,Fashion,1430
+4,Fashion Item 4,Fashion,1450
+5,Fashion Item 5,Fashion,1720
+6,Fashion Item 6,Fashion,610
+7,Fashion Item 7,Fashion,860
+8,Fashion Item 8,Fashion,1630
+9,Beauty Item 1,Beauty,790
+10,Beauty Item 2,Beauty,720
+11,Beauty Item 3,Beauty,580
+12,Beauty Item 4,Beauty,740
+13,Beauty Item 5,Beauty,710
+14,Beauty Item 6,Beauty,900
+15,Beauty Item 7,Beauty,650
+16,Beauty Item 8,Beauty,750
+17,Electronics Item 1,Electronics,2310
+18,Electronics Item 2,Electronics,1480
+19,Electronics Item 3,Electronics,510
+20,Electronics Item 4,Electronics,3020
+21,Electronics Item 5,Electronics,830
+22,Electronics Item 6,Electronics,950
+23,Electronics Item 7,Electronics,1680
+24,Electronics Item 8,Electronics,3840
+25,Home & Kitchen Item 1,Home & Kitchen,650
+26,Home & Kitchen Item 2,Home & Kitchen,2090
+27,Home & Kitchen Item 3,Home & Kitchen,300
+28,Home & Kitchen Item 4,Home & Kitchen,2260
+29,Home & Kitchen Item 5,Home & Kitchen,1540
+30,Home & Kitchen Item 6,Home & Kitchen,1110
+31,Home & Kitchen Item 7,Home & Kitchen,1880
+32,Home & Kitchen Item 8,Home & Kitchen,1280
+33,Footwear Item 1,Footwear,2020
+34,Footwear Item 2,Footwear,2060
+35,Footwear Item 3,Footwear,2140
+36,Footwear Item 4,Footwear,2700
+37,Footwear Item 5,Footwear,910
+38,Footwear Item 6,Footwear,1990
+39,Footwear Item 7,Footwear,970
+40,Footwear Item 8,Footwear,1800
